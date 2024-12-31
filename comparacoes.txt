@@ -1,0 +1,41 @@
+André Luiz Carvalho Freire Sobrinho;
+
+
+1000.1:
+	SS: 3315000 nanoseg;
+	IS: 3217000 nanoseg;
+
+1000.2:
+	SS: 5755000 nanoseg;
+	IS: 822000 nanoseg;
+1000.3:
+	SS: 3597000 nanoseg;
+	IS: 3219000 nanoseg;
+1000.4:
+	SS: erro de leitura;
+	IS: erro de leitura;
+10000.1:
+	SS: 303407 microseg;;
+	IS: 282831 microseg;
+10000.2:
+	SS: 356073 microseg;
+	IS: 298006 microseg;
+10000.3:
+	SS: 308841 microseg;
+	IS: 290136 microseg;
+10000.4:
+	SS: erro de leitura;
+	IS: erro de leitura;
+100000.1:
+	SS: 31003 miliseg;
+	IS: 29280 miliseg;
+100000.2:
+	SS: 31155 miliseg;;
+	IS: 29096 miliseg;
+100000.3:
+	SS: 30773 miliseg;
+	IS: 29534 miliseg;
+100000.4:
+	SS: erro de leitura;
+	IS: erro de leitura;
+	
